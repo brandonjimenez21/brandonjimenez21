@@ -26,7 +26,7 @@
   
 - 🌱 I’m currently learning Git, Java y GitHub
   
-- 💬 Ask me about Sql, Java, C++, JavaScript. Let's learn together
+- 💬 Ask me about Sql, Java, C++. Let's learn together
   
 - ⚡ Fun fact: I like video games
 
