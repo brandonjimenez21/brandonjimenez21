@@ -45,9 +45,3 @@
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,php,py,css,html,js,nodejs,mysql,git,github,docker,idea,vscode,bash,linux" />
 </p>
-
-| ![brandonjimenez21 github stats](https://github-readme-stats.vercel.app/api?username=brandonjimenez21&show_icons=true&theme=tokyonight) | ![brandonjimenez21 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brandonjimenez21&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonjimenez21&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=brandonjimenez21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-<br>
