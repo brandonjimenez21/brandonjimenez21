@@ -30,7 +30,7 @@
   
 - ⚡ Fun fact: I like video games
 
-- 📫 How to reach me: **jimenezstiven3773@gmail.com**
+- 📫 How to reach me: **brandonjimenez.dev@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
