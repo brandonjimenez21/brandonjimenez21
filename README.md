@@ -43,5 +43,5 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,php,py,css,html,js,nodejs,mysql,git,github,docker,idea,vscode,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,php,py,css,html,js,go,nodejs,mysql,git,github,docker,idea,vscode,bash,linux" />
 </p>
