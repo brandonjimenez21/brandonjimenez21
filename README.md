@@ -2,17 +2,16 @@
     <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
 </div>
 <div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Brandon+Jimenez;Software+development+student" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Brandon+Jimenez;Full-Stack+Developer;Backend+%26+Automations" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
-	<a href="https://github.com/hungpham3112">
+	<a href="https://github.com/brandonjimenez21">
 		<img src="https://komarev.com/ghpvc/?username=brandonjimenez21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 	</a>
+</p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
 
 [![Github](https://img.shields.io/github/followers/brandonjimenez21?label=Follow&style=social)](https://github.com/brandonjimenez21)
 
@@ -20,28 +19,43 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I'm currently studying at the Universidad del Valle
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 💬 Let's learn together
-  
-- ⚡ Fun fact: I like video games
+- 💻 **Full-Stack Developer** focused on building scalable backend architectures, database optimization, and secure web applications.
 
-- 📫 How to reach me: **brandonjimenez.dev@gmail.com**
+- 🛠️ **Deep experience** working with modern stacks: Node.js, Python, Supabase (PostgreSQL), and cloud deployments.
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+- 🤖 **Passionate about** building automated systems and production-ready integrations (APIs, Webhooks, WhatsApp Business API).
+  
+- ⚡ **Fun fact:** I like video games
+
+- 📫 **How to reach me:** brandonjimenez.dev@gmail.com
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/skilledgm/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.jimenezstiven3773@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonjimenez.dev@gmail.com)
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<br>
 
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,php,py,css,html,js,go,nodejs,mysql,git,github,docker,idea,vscode,bash,linux" />
+<h3 align="left">Languages and Tools:</h3>
+
+<h4>🧠 Backend & Databases</h4>
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=nodejs,py,go,php,java,mysql,supabase" />
+</p>
+
+<h4>🎨 Frontend</h4>
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
+</p>
+
+<h4>🛠️ DevOps & Environments</h4>
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,vscode,idea" />
 </p>
