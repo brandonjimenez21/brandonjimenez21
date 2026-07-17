@@ -17,6 +17,14 @@
 
 <div size='20px'> Hi! My name is Brandon Jimenez. Thank You for taking the time to view my GitHub Profile :heart: </div>
 
+## 💼 Professional Experience
+
+### **Co-Founder & Lead Full-Stack Developer** | [*Efisco SAS*](https://efisco.co/) `[Abril 2026 - Presente]` https://efisco.co/
+*   Diseño y despliegue de la arquitectura completa de un ecosistema SaaS dedicado a la automatización operativa del sector automotriz.
+*   Modelado de bases de datos relacionales en **Supabase (PostgreSQL)** optimizando el rendimiento de queries y asegurando el aislamiento de datos multi-tenant.
+*   Construcción de APIs robustas con **Node.js** e integración de flujos asíncronos mediante la **WhatsApp Business API**.
+*   *Arquitectura documentada en:* 🏛️ [efisco-architecture](https://github.com/brandonjimenez21/efisco-architecture)
+
 <h2> About Me </h2>
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -59,11 +67,3 @@
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,vscode,idea" />
 </p>
-
-## 💼 Professional Experience
-
-### **Co-Founder & Lead Full-Stack Developer** | *Efisco SAS* `[Abril 2026 - Presente]`
-*   Diseño y despliegue de la arquitectura completa de un ecosistema SaaS dedicado a la automatización operativa del sector automotriz.
-*   Modelado de bases de datos relacionales en **Supabase (PostgreSQL)** optimizando el rendimiento de queries y asegurando el aislamiento de datos multi-tenant.
-*   Construcción de APIs robustas con **Node.js** e integración de flujos asíncronos mediante la **WhatsApp Business API**.
-*   *Arquitectura documentada en:* 🏛️ [efisco-architecture](https://github.com/brandonjimenez21/efisco-architecture)
