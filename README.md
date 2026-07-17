@@ -19,11 +19,17 @@
 
 ## 💼 Professional Experience
 
-### **Co-Founder & Lead Full-Stack Developer** | [*Efisco SAS*](https://efisco.co/) `[Abril 2026 - Presente]` https://efisco.co/
-*   Diseño y despliegue de la arquitectura completa de un ecosistema SaaS dedicado a la automatización operativa del sector automotriz.
-*   Modelado de bases de datos relacionales en **Supabase (PostgreSQL)** optimizando el rendimiento de queries y asegurando el aislamiento de datos multi-tenant.
-*   Construcción de APIs robustas con **Node.js** e integración de flujos asíncronos mediante la **WhatsApp Business API**.
-*   *Arquitectura documentada en:* 🏛️ [efisco-documentation](https://github.com/brandonjimenez21/efiscoDocumentation)
+### **Co-Founder & Lead Full-Stack Developer** | [*Efisco SAS*](https://efisco.co/) `[April 2026 – Present]`
+
+Multi-tenant B2B SaaS for motorcycle workshop management in Colombia — built from scratch, solo.
+
+- Designed the complete system architecture: app-level multi-tenant isolation (every endpoint validates `workshop_id` against the authenticated session), PostgreSQL RLS as defense-in-depth across 28 tables (audited with Supabase Security Advisor, Jul 2026).
+- Built a financial engine with real Colombian fiscal logic: IVA 19%/10%/5%, ReteFuente, ReteICA, ReteIVA, gateway commissions, GMF 4×1000 — 15 ledger movement types in an immutable append-only ledger. Validated with **49 suites / 216 automated tests** (Jest, ESM native, CI via GitHub Actions).
+- Integrated electronic invoicing to the DIAN via Dataico (non-blocking, per-workshop sub-account, CUFE stored per order), WhatsApp Cloud API for automated client communication, AWS Textract for async OCR of supplier invoices, and three payment gateways (Mercado Pago, Bold, Addi) with fail-closed webhook verification.
+- Implemented a layered security model: 2-layer suspension (login + middleware token invalidation), B2B contract gate with e-signature under Ley 527/1999, staff authorization gate with append-only legal evidence (timestamp + IP), OTP-protected credit score with brute-force limit (5 attempts / 15 min lockout, `crypto.timingSafeEqual`), and scoped IDOR protection on all provider mutations.
+- Conducted a full internal security audit (Jul 2026): found and patched 7 critical/high vulnerabilities in one day, including an IDOR + mass assignment on provider endpoints and an open webhook vector allowing anyone to mark orders as paid.
+
+📁 Architecture & documentation: [efiscoDocumentation](https://github.com/brandonjimenez21/efiscoDocumentation)
 
 <h2> About Me </h2>
 
@@ -60,7 +66,7 @@
 
 <h4>🎨 Frontend</h4>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
 </p>
 
 <h4>🛠️ DevOps & Environments</h4>
